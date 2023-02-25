@@ -1,0 +1,24 @@
+.navbaritem>a:hover{
+    background-color: rgb(199, 196, 196);
+    display: inline-block;
+    border-radius: 5px;
+    color: white;
+}
+.navbaritem>a{
+    transition: all;
+    transition-delay: 0.1s;
+    transition-duration: 0.2s;
+}
+.carouselbg{
+    background-image: url(./hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:5%;
+}
+.secbg{
+    background: url(./hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 10%;  
+}
+
